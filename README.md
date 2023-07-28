@@ -4,3 +4,4 @@ UML(Unified Modeling Language)
 
 ## References
 * https://gihyo.jp/book/2017/978-4-7741-9005-1
+* https://e-words.jp/w/UML.html
